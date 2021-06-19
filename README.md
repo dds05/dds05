@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning NextJS.
-- 👯 I’m looking to collaborate on any MERN Stack project.
+- 🌱 I’m currently learning AngularJS.
 - 💬 Ask me about Data Structures and Algorithms, HTML5, CSS3, MongoDB, ExpressJS, ReactJS, ReduxJS, NodeJS, NextJS, TailwindCss, styled-components, Firebase. 
 - 📫 How to reach me: damandeep.in@gmail.com
 ![](https://hit.yhype.me/github/profile?user_id=78254330)
