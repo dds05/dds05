@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m a Frontend-Developer
-- 💬 Ask me about Data Structures and Algorithms, HTML5, CSS3, MongoDB, ExpressJS, ReactJS, ReduxJS, NodeJS, NextJS, TailwindCss, styled-components, Firebase. 
+- 🌱 I’m a Frontend-Developer.
+- 💬 Ask me about Data Structures and Algorithms, HTML5, CSS3, MongoDB, ExpressJS, ReactJS, AngularJS, ReduxJS, NodeJS, NextJS, TailwindCss, styled-components, Firebase. 
 - 📫 How to reach me: damandeep.in@gmail.com
 ![](https://hit.yhype.me/github/profile?user_id=78254330)
 <!--
