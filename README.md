@@ -9,7 +9,7 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/damandeep-singh-3aaa83184
+[linkedin]: www.linkedin.com/in/dds5
 [Gmail]: mailto:damandeep.in@gmail.com
 
 ![](https://hit.yhype.me/github/profile?user_id=78254330)
