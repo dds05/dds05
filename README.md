@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m a Frontend-Developer.
 - 💬 Ask me about Data Structures and Algorithms, HTML5, CSS3, MongoDB, ExpressJS, ReactJS, AngularJS, ReduxJS, NodeJS, NextJS, TailwindCss, styled-components, Firebase. 
-- 📫 How to reach me: [<img align="center" alt="codeSTACKr | LinkedIn" width="23px"  src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+- 📫 How to reach me: [<img align="center" alt="codeSTACKr | LinkedIn" width="23px"  src="https://img.icons8.com/color/48/000000/linkedin.png" target=_blank />][linkedin]
 [<img align="center" alt=" | LinkedIn" width="23px" src="https://img.icons8.com/color/96/000000/gmail-new.png" target=_blank />][Gmail]
 
 <br />
