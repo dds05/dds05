@@ -1,6 +1,7 @@
 ### Hi there 👋
-- 🌱 I’m a Frontend-Developer.
-- 💬 Ask me about Data Structures and Algorithms, HTML5, CSS3, MongoDB, ExpressJS, ReactJS, AngularJS, ReduxJS, Zustand, NodeJS, NextJS, TailwindCss, styled-components, Firebase. 
+- 🌱 I’m a FullStack-Developer.
+- Software Engineer with 4+ years of experience building custom video players, interactive UIs, and scalable web features for modern OTT and media platforms. Skilled in React, Angular, Next.js, JavaScript, TypeScript, and Node.js, along with video tech (HLS, DASH, DRM) and interactive live features like EPG. 
+- Passionate about crafting seamless, scalable OTT and media experiences. 
 - 📫 How to reach me: 
 [<img align="center" alt=" | LinkedIn" width="23px" src="https://img.icons8.com/color/96/000000/gmail-new.png" target=_blank />][Gmail]
 
